@@ -1,7 +1,7 @@
 ![logo](https://github.com/mrinmoy-28/mrinmoy-28/blob/main/MMbanner.png)
 <h1 align="center">Hi 👋, I'm Mrinmoy Maji</h1>
 <h3 align="center">Aspiring Software Developer | Tech Enthusiast | Problem Solver from India</h3>
-<img src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif" width="350"align="right"/>
+<img src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gi](https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" width="350"align="right"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrinmoy-28&label=Profile%20views&color=0e75b6&style=flat" alt="mrinmoy-28" /> </p>
 
