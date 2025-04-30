@@ -1,4 +1,3 @@
-![logo](https://github.com/mrinmoy-28/mrinmoy-28/blob/main/MMbanner.png)
 <h1 align="center">Hi 👋, I'm Mrinmoy Maji</h1>
 <h3 align="center">Aspiring Software Developer | Tech Enthusiast | Problem Solver from India</h3>
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExanB6b3ZiZm0wYXE5Mzdqemh1cXBzZWw2dXoyeWV5YXF5azd4OW5vZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" width="350"align="right"/>
